@@ -1,0 +1,8 @@
+{
+  "name": "aga-device-seller",
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
